@@ -1,6 +1,5 @@
 """
-智能OCR识别器 - 优化版本
-能够更准确地解析所有交易记录，减少数据丢失
+智能OCR识别器 
 """
 import cv2
 import numpy as np
